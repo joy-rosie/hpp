@@ -1,0 +1,9 @@
+1) Install python 3.6+
+2) Create an empty virtual environment
+3) Activate the virtual environment
+4) Download the folder from git using "git clone" or downloading as zip and unzipping
+5) cd into the folder called "house_price_predictions"
+6) Run "pip install -r requirements.txt"
+7) Run "jupyter notebook"
+8) Open "house_price_predictions.ipynb" notebook and run through the notebook
+9) Find the predicted SalePrice from "data/test.csv" in "output/test.csv"
